@@ -1,0 +1,4 @@
+﻿  SkynetV2.cpp
+c:\users\user\source\repos\skynetv2\skynetv2\skynetv2\skynetv2.cpp(82): warning C4552: '+': operator has no effect; expected operator with side-effect
+  SkynetV2.vcxproj -> C:\Users\User\Source\Repos\SkynetV2\SkynetV2\Debug\SkynetV2.exe
+  SkynetV2.vcxproj -> C:\Users\User\Source\Repos\SkynetV2\SkynetV2\Debug\SkynetV2.pdb (Partial PDB)
